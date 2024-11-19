@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Donanım Birimleri\Donanım Birimleri\bin\Debug\Donanım Birimleri.exe.config
+C:\Users\user\Desktop\10-M\Donanım Birimleri\Donanım Birimleri\bin\Debug\Donanım Birimleri.exe
+C:\Users\user\Desktop\10-M\Donanım Birimleri\Donanım Birimleri\bin\Debug\Donanım Birimleri.pdb
+C:\Users\user\Desktop\10-M\Donanım Birimleri\Donanım Birimleri\obj\Debug\Donanım Birimleri.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Donanım Birimleri\Donanım Birimleri\obj\Debug\Donanım_Birimleri.Form1.resources
+C:\Users\user\Desktop\10-M\Donanım Birimleri\Donanım Birimleri\obj\Debug\Donanım_Birimleri.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Donanım Birimleri\Donanım Birimleri\obj\Debug\Donanım Birimleri.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Donanım Birimleri\Donanım Birimleri\obj\Debug\Donanım Birimleri.exe
+C:\Users\user\Desktop\10-M\Donanım Birimleri\Donanım Birimleri\obj\Debug\Donanım Birimleri.pdb
